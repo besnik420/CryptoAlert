@@ -1,0 +1,3 @@
+ 0xkyd long OPUSDT 1.6676142
+ 0xkyd long ETHUSDT 2,069.14
+ 0xkyd long ARBUSDT 1.156330
